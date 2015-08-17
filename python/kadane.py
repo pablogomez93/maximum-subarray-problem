@@ -15,8 +15,8 @@ def Kadane(array):
 
 	return {
 		"fromIndex" 	: fromIndex,
-		"toIndex"		: toIndex,
-		"bestSum"		: bestSum
+		"toIndex"	: toIndex,
+		"bestSum"	: bestSum
 	}
 
 
